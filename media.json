@@ -1,0 +1,67 @@
+{
+  "name": "Sudhir's Music Library",
+  "author": "Sudhir Singh",
+  "version": "1.0.0",
+  "audio": [
+    "./music/Jag Begana Hoya Na Peer Parayi Samjhe.mp3",
+    "./music/ere Dur Jaane se Din Raat Darte hai -Slowed+Reverd.mp3",
+    "./music/Yahi Tak Tha Safar Apna Slowed + Reverb.mp3",
+    "./music/Raajhana Ve Slowed +Reverbs.mp3",
+    "./music/Tere Naina Ese Kafir - Rabb Manneya lofi - Slower+Reverb.mp3",
+    "./music/Mere Sare Wade.mp3",
+    "./music/Laila Main Laila.mp3",
+    "./music/Tip tip barsa pani 2.0.mp3",
+    "./music/Aaj Ki Raat -Full Song .mp3",
+    "./music/Tu Hi To Hai Manzil.mp3",
+    "./music/Tere Dil Pe Haq Mera Hai (Duet Version).mp3",
+    "./music/New Hindi Romantic Pyaar Pyaar Karte Hai.mp3",
+    "./music/na chedo hume hum sataye hue hain lyrics.mp3",
+    "./music/Layi Re Hume Zindagani Ki Kahani.mp3",
+    "./music/Baby Doll Full Video Song Ragin Meet Bros Anjjan Feat. Kanika Kapoor.mp3",
+    "./music/Pagal - SUNANDA SHARMA (HD VIdeo).mp3"
+  ],
+  "playlists": [
+    {
+      "name": "Lofi & Slow",
+      "icon": "🎧",
+      "tracks": [
+        "./music/ere Dur Jaane se Din Raat Darte hai -Slowed+Reverd.mp3",
+        "./music/Yahi Tak Tha Safar Apna Slowed + Reverb.mp3",
+        "./music/Raajhana Ve Slowed +Reverbs.mp3",
+        "./music/Tere Naina Ese Kafir - Rabb Manneya lofi - Slower+Reverb.mp3"
+      ]
+    },
+    {
+      "name": "Romantic",
+      "icon": "❤️",
+      "tracks": [
+        "./music/Jag Begana Hoya Na Peer Parayi Samjhe.mp3",
+        "./music/Mere Sare Wade.mp3",
+        "./music/Tu Hi To Hai Manzil.mp3",
+        "./music/Tere Dil Pe Haq Mera Hai (Duet Version).mp3",
+        "./music/New Hindi Romantic Pyaar Pyaar Karte Hai.mp3",
+        "./music/Layi Re Hume Zindagani Ki Kahani.mp3"
+      ]
+    },
+    {
+      "name": "Party Hits",
+      "icon": "🎉",
+      "tracks": [
+        "./music/Laila Main Laila.mp3",
+        "./music/Tip tip barsa pani 2.0.mp3",
+        "./music/Aaj Ki Raat -Full Song .mp3",
+        "./music/Baby Doll Full Video Song Ragin Meet Bros Anjjan Feat. Kanika Kapoor.mp3",
+        "./music/Pagal - SUNANDA SHARMA (HD VIdeo).mp3"
+      ]
+    },
+    {
+      "name": "Sad Songs",
+      "icon": "😢",
+      "tracks": [
+        "./music/Jag Begana Hoya Na Peer Parayi Samjhe.mp3",
+        "./music/Yahi Tak Tha Safar Apna Slowed + Reverb.mp3",
+        "./music/na chedo hume hum sataye hue hain lyrics.mp3"
+      ]
+    }
+  ]
+}
